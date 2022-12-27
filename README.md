@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RishikeshOps
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning DevOps 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DevOps Tools
+- 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 reach me at rishikeshmashidkar@gmail.com
 
 <!---
