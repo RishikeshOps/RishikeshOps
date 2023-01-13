@@ -2,6 +2,10 @@
 
 Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
 
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&" alt="rishikeshops" /></p>
+
+
 <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
 
 ## :zap: Skills
@@ -34,10 +38,25 @@ Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have
   </a>
 
 
+  
+  ## 📊 Github Stats (Expand to View) 
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishikeshops&show_icons=true&locale=en" alt="rishikeshops" />
 
+</details>
 
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshops&show_icons=true&locale=en&layout=compact" alt="rishikeshops" />
+  
+</details> 
+   </details>
+   
+   
 ## 📫 How to reach me? 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
