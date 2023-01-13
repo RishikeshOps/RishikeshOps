@@ -2,7 +2,7 @@
 
 Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
 
-
+<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
 
 ## :zap: Skills
 
