@@ -44,14 +44,14 @@ Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishikeshops&show_icons=true&locale=en" alt="rishikeshops" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikeshops&show_icons=true&&theme=radical" alt="rishikeshops" /></p>
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshops&show_icons=true&locale=en&layout=compact" alt="rishikeshops" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshops&show_icons=true&&theme=radical&line_height=27&v=5" alt="rishikeshops" /></p>
   
 </details> 
    </details>
