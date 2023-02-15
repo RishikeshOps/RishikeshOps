@@ -40,7 +40,10 @@ Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have
     <a href="https://pages.github.com/?(null)" target="_blank" >
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
   </a>
-
+ </a>
+  <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+  </a>
   
   ## 📊 Github Stats (Expand to View) 
   
