@@ -88,7 +88,7 @@
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-mashidkar/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Hashnode](https://rushikesh-mashidkar.hashnode.dev/) 🌐 <br>
   ⦿ Shoot Me an [Email](mailto:rishikeshmashidkar@gmail.com) 💌 <br>
-
+  ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
 
 <div align="center">
