@@ -66,6 +66,10 @@ Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have
 I'm always on the lookout for new and exciting opportunities to learn and grow. If you're interested in working together, or just want to chat about DevOps, feel free to reach out!
 
 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
