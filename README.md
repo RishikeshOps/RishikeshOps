@@ -36,7 +36,10 @@ Hello! My name is Rushikesh Mashidkar and I am a DevOps⚙️ enthusiast. I have
   <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
   </a>
-
+ </a>
+    <a href="https://pages.github.com/?(null)" target="_blank" >
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+  </a>
 
   
   ## 📊 Github Stats (Expand to View) 
