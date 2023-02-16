@@ -17,7 +17,7 @@
 
 ## :zap: Skills
 
-   <a href="https://www.linux.org/" target="_blank" >
+   <a href="https://www.linux.org/" target="_blanfalse
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
    <a href="https://aws.amazon.com/" target="_blank" >
@@ -56,9 +56,9 @@
 
 <details>
   <summary><b>Blogs</b></summary>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=true&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
 </p>
   </details>
   
