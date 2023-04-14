@@ -67,10 +67,14 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=true&theme=dark"/>
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blog.rushikesh.me/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=false&theme=dark"/>
+ <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/maximizing-productivity-with-github-actions&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
+<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://rushikesh-mashidkar.hashnode.dev/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
+ 
+<!--  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blog.rushikesh.me/create-an-aws-code-pipeline-with-aws-code-commit-code-build-code-deploy-tutorial&large=false&theme=dark"/> -->
+
 </p>
   </details>
   
