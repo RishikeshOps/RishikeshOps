@@ -33,6 +33,9 @@
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
   </a>
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+  </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
@@ -54,15 +57,21 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+  </a>
   
   ### Monitoring
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.dynatrace.com/" target="_blank" >
+    <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="65" />
   </a>
 </p>
   
