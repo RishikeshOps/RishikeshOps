@@ -83,9 +83,9 @@
     <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="80" />
   </a>
 </p>
-  
+<!--
   ## Hashnode Blogs (Expand to View)
-
+<!--
 <details>
   <summary><b>Tap Me</b></summary>
   <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=true&theme=dark"/>
